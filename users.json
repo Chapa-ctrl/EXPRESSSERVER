@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1c78b2ff-4046-4ad6-9cea-92ad1bfc5957",
+    "username": "ch0pa_c00l",
+    "passwordHash": "$2b$12$fF9Xi40bLhS.fPTRjUxYT.Bleu46taGt80qXq6i1uB7377/vgSqSO",
+    "role": "admin",
+    "createdAt": "2026-11-04T14:25:18.268Z"
+  },
+  {
+    "id": "ddd2c44c-6e2e-431e-b94b-d5bccfdc202c",
+    "username": "test_buddy",
+    "passwordHash": "$2b$12$yBI/JpG5KWP8ptEikAa5Pem//jxiqidtf76nW3acQvra7e0DHkraq",
+    "role": "user",
+    "createdAt": "2026-11-04T14:37:36.401Z"
+  },
+  {
+    "id": "664ee3a3-b88c-4340-a90c-b4a63b468c05",
+    "username": "donohuekt",
+    "passwordHash": "$2b$12$OvnkTu5WDzShTkzTzXxpzOilzD3pBsW2CY2u58OS6L9T0X/GyKKnm",
+    "role": "user",
+    "createdAt": "2026-11-05T13:26:47.556Z"
+  },
+  {
+    "id": "22a345ad-8737-4f3d-b9c5-e6e20ae246d1",
+    "username": "test_buddy2",
+    "passwordHash": "$2b$12$yMOGEbF/cyY3IAD49HVkPuhVeClRfTtgU0KIxZ2IP97Xvu2VvPp9C",
+    "role": "user",
+    "createdAt": "2026-11-05T13:54:12.034Z"
+  }
+]
